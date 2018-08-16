@@ -95,7 +95,7 @@
     {
       "type": "Feature",
       "properties": {
-        "city": "Medellín"
+        "city": "Medellín",
         "people": "Eva"
       },
       "geometry": {
