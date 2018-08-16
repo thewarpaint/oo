@@ -78,6 +78,19 @@
           -33.8688
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "people": "Gabriela"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3161,
+          25.6866
+        ]
+      }
     }
   ]
 }
