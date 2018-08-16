@@ -61,7 +61,7 @@
       "type": "Feature",
       "properties": {
         "city": "San Francisco",
-        "people": "Alan, Braulio, Guayo, Ixai, Luis, Niño"
+        "people": "Alan, Braulio, Guayo, Ixai, Luis, Niño, Pabli"
       },
       "geometry": {
         "type": "Point",
