@@ -43,7 +43,7 @@
     {
       "type": "Feature",
       "properties": {
-        "people": "Andrea, BrandoN, Chebo, Netza, Sergio"
+        "people": "Andrea, BrandoN, Chebo, Netza, Sergio, Tavo"
       },
       "geometry": {
         "type": "Point",
@@ -52,6 +52,20 @@
           20.6597
         ]
       }
-    }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "people": "Alan, Braulio, Guayo, Ixai, Luis, Niño"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3496,
+          20.6597
+        ]
+      }
+    },
+    37.7749° N, 122.4194
   ]
 }
