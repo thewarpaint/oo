@@ -4,6 +4,7 @@
     {
       "type": "Feature",
       "properties": {
+        "city": "Berlin",
         "people": "Daniel, Cesar"
       },
       "geometry": {
@@ -17,6 +18,7 @@
     {
       "type": "Feature",
       "properties": {
+        "city": "Hamburg",
         "people": "Eduardo"
       },
       "geometry": {
@@ -30,6 +32,7 @@
     {
       "type": "Feature",
       "properties": {
+        "city": "Tokyo",
         "people": "Javeir"
       },
       "geometry": {
@@ -43,6 +46,7 @@
     {
       "type": "Feature",
       "properties": {
+        "city": "Guadalajara",
         "people": "Andrea, BrandoN, Chebo, Netza, Sergio, Tavo"
       },
       "geometry": {
@@ -56,6 +60,7 @@
     {
       "type": "Feature",
       "properties": {
+        "city": "San Francisco",
         "people": "Alan, Braulio, Guayo, Ixai, Luis, Niño"
       },
       "geometry": {
@@ -69,6 +74,7 @@
     {
       "type": "Feature",
       "properties": {
+        "city": "Sydney",
         "people": "Barbara"
       },
       "geometry": {
@@ -82,6 +88,7 @@
     {
       "type": "Feature",
       "properties": {
+        "city": "Monterrey",
         "people": "Gabriela"
       },
       "geometry": {
