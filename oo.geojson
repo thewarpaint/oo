@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cesar"
+        "people": "Daniel, Cesar"
       },
       "geometry": {
         "type": "Point",
@@ -14,11 +14,10 @@
         ]
       }
     },
-    
     {
       "type": "Feature",
       "properties": {
-        "name": "Eduardo"
+        "people": "Eduardo"
       },
       "geometry": {
         "type": "Point",
@@ -28,17 +27,29 @@
         ]
       }
     },
-    
     {
       "type": "Feature",
       "properties": {
-        "name": "Javeir"
+        "people": "Javeir"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           139.6917,
           35.6895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "people": "Andrea, BrandoN, Chebo, Netza, Sergio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3496,
+          20.6597
         ]
       }
     }
