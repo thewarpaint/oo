@@ -91,6 +91,20 @@
           25.6866
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Medellín"
+        "people": "Eva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5812,
+          6.2442
+        ]
+      }
     }
   ]
 }
