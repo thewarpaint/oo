@@ -60,7 +60,7 @@
     {
       "type": "Feature",
       "properties": {
-        "city": "Guadalajara",
+        "city": "CDMX",
         "people": "Netza"
       },
       "geometry": {
