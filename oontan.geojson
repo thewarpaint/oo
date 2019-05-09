@@ -88,14 +88,14 @@
     {
       "type": "Feature",
       "properties": {
-        "city": "Medellín",
+        "city": "Lima",
         "people": "Eva"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.5812,
-          6.2442
+          -77.033043,
+          -12.117880
         ]
       }
     },
