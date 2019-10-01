@@ -88,22 +88,8 @@
     {
       "type": "Feature",
       "properties": {
-        "city": "Lima",
-        "people": "Eva"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.033043,
-          -12.117880
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "city": "CDMX",
-        "people": "Eduardo, Netza"
+        "people": "Eduardo, Netza, Eva"
       },
       "geometry": {
         "type": "Point",
