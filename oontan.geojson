@@ -33,7 +33,7 @@
       "type": "Feature",
       "properties": {
         "city": "Guadalajara",
-        "people": "Andrea, BrandoN, Chebo, Ixai, Sergio, Tavo"
+        "people": "Andrea, BrandoN, Ixai, Sergio, Tavo"
       },
       "geometry": {
         "type": "Point",
@@ -124,6 +124,20 @@
         "coordinates": [
           -74.0060,
           40.7128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Seattle",
+        "people": "Chebo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3321,
+          47.6062
         ]
       }
     }
