@@ -19,7 +19,7 @@
       "type": "Feature",
       "properties": {
         "city": "Tokyo",
-        "people": "Javeir"
+        "people": "Javeir, Ixai"
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +33,7 @@
       "type": "Feature",
       "properties": {
         "city": "Guadalajara",
-        "people": "Andrea, BrandoN, Ixai, Sergio, Tavo"
+        "people": "Andrea, BrandoN, Sergio, Tavo"
       },
       "geometry": {
         "type": "Point",
