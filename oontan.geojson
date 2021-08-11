@@ -74,14 +74,14 @@
     {
       "type": "Feature",
       "properties": {
-        "city": "Monterrey",
+        "city": "New York",
         "people": "Gabriela"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -100.3161,
-          25.6866
+          -73.9724,
+          40.7551
         ]
       }
     },
