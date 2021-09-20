@@ -74,20 +74,6 @@
     {
       "type": "Feature",
       "properties": {
-        "city": "New York",
-        "people": "Gabriela"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.9724,
-          40.7551
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "city": "CDMX",
         "people": "Eduardo, Netza, Eva"
       },
@@ -103,7 +89,7 @@
       "type": "Feature",
       "properties": {
         "city": "New York",
-        "people": "Luis"
+        "people": "Luis, Gabriela"
       },
       "geometry": {
         "type": "Point",
